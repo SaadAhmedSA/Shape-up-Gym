@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 
+
+#home{
+  background-image: url(../public/hero.avif);
+  background-position: center;
+  background-size: cover;
+}
