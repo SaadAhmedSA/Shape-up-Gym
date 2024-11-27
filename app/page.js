@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from './component/Navbar'
-import About from './component/About'
-import Servive from './component/servive'
-import Profile from './component/Profile'
-import ContactSection from './component/Contact'
+import Navbar from './component/Navbar.jsx'
+import About from './component/About.jsx'
+import Servive from './component/servive.jsx'
+import Profile from './component/Profile.jsx'
+import ContactSection from './component/Contact.jsx'
 
 const page = () => {
   return (
