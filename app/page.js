@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './component/Navbar.jsx'
 import About from './component/About.jsx'
-import Servive from './component/servive.jsx'
+import Servive from './component/Servive.jsx'
 import Profile from './component/Profile.jsx'
 import ContactSection from './component/Contact.jsx'
 
