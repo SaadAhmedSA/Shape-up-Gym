@@ -11,7 +11,7 @@ const Servive = () => {
     <h2 className="text-4xl font-semibold bg-black text-center  text-yellow-500 pb-10">Our Fitness Program</h2>
 
 
-    <section className='bg-black py-12 ' id='servives'>
+    <section className='bg-black py-12 ' id='services'>
 
         <div className='container mx-auto flex flex-wrap justify-evenly items-center   gap-4'>
     <div className="max-w-xs w-full bg-yellow-500 text-gray-800 rounded-lg p-6 shadow-lg transform transition duration-300 hover:scale-105 hover:shadow-2xl">
