@@ -4,7 +4,7 @@ import img from "@/public/ab.avif"
 
 const About = () => {
   return (
-    <section id="about-us" className="bg-black text-white p-10  space-y-8">
+    <section id="about" className="bg-black text-white p-10  space-y-8">
   <div className="max-w-3xl mx-auto text-center">
     <h2 className="text-4xl font-semibold text-yellow-500">About Us</h2>
     <p className="text-lg mt-4">
