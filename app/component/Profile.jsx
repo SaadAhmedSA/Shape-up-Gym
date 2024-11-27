@@ -39,7 +39,7 @@ const Profile = () => {
   return (
     <>
           <h2 className="text-4xl font-semibold bg-black text-center  text-yellow-500 pb-10">Our Trainer</h2>
-    <div className='flex bg-black flex-wrap justify-evenly mx-auto items-center gap-4 py-10'>
+    <div className='flex bg-black flex-wrap justify-evenly mx-auto items-center gap-4 py-10' id="trainer">
 
         {trainer.map((trainer, index)=>{
           return(
